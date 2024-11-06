@@ -2,11 +2,6 @@
 
 ![preview image](./preview.png)
 
-## 🔧 Requirements
-
-- Node.js (v14 or above)
-- npm (v6 or above)
-
 ## 📦 Installation and Usages
 
 ```bash
@@ -24,4 +19,4 @@ Type **momose** to view a random AnimeWaifu image on terminal.
 
 ## 💡 Contributing
 
-Got ideas or improvements? Fork, tweak, and send us a pull request! 😁
+Got ideas or improvements? Fork, tweak, and send us a pull request.
