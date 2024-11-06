@@ -10,7 +10,7 @@
 ## 📦 Installation and Usages
 
 ```bash
-npm i momose
+npm i -g momose
 ```
 
 ```bash
