@@ -1,5 +1,5 @@
 
-##### **momose** is a fun CLI tool that brings random waifu images straight to your terminal! Fetch a new waifu every time you run it and display it in style. Perfect for anime lovers who want a little extra flair in their terminal.
+#### **momose** is a fun CLI tool that brings random waifu images straight to your terminal! Fetch a new waifu every time you run it and display it in style. Perfect for anime lovers who want a little extra flair in their terminal.
 
 ![preview image](./preview.png)
 
